@@ -10,4 +10,6 @@ This internship project focuses on three distinct but interrelated machine learn
 
 Together, these projects explore the use of machine learning to address key challenges in environmental monitoring, resource management, and sustainable mobility.
 
-Badges![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667](https://github.com/user-attachments/assets/5299ed24-f736-48af-8d66-5118bd5d2814)
+Badges
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667](https://github.com/user-attachments/assets/5299ed24-f736-48af-8d66-5118bd5d2814)
